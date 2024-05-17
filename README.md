@@ -1,3 +1,3 @@
 # teamcity-plugin-testing
 
-AGENT OF CHAOS
+AGENT OF CHAOS 2
