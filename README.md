@@ -1,3 +1,3 @@
 # teamcity-plugin-testing
 
-Arbitrary change, 2
+Arbitrary change, 4
