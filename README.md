@@ -1,3 +1,3 @@
 # teamcity-plugin-testing
 
-test 1
+test 2
